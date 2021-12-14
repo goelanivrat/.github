@@ -17,3 +17,10 @@ jobs:
 
       - name: Run a one-line script
         run: npm run deploy
+        
+        - name: Deploy
+      uses: 
+      with:
+        server: 
+        username: P2004408156 
+        password: 
