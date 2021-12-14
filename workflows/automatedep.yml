@@ -23,4 +23,4 @@ jobs:
       with:
         server: 
         username: P2004408156 
-        password: 
+        password: ${{secrets.password_es5}}
